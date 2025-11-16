@@ -68,7 +68,7 @@ If you prefer a quick demo, use the `Demo` button to prefill `demo`/`demo` and t
 
 ## Screenshot
 
-![Screenshot 1](./src/assets/screenshots/Create%20Account.png)
+![Screenshot 1](D:\student-course-dashboard\src\assets\screenshots\Create Account.png)
 ![Screenshot 2](./src/assets/screenshots/Login%20Page.png)
 ![Screenshot 3](./src/assets/screenshots/Active%20Student.png)
 ![Screenshot 4](./src/assets/screenshots/Completed%20Student.png)
