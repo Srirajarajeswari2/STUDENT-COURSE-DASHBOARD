@@ -97,7 +97,9 @@ Global styling is handled through styles.css and index.css, using:
 
 ## Deployment link
 
+
 **Live Demo:** unrivaled-jalebi-a0526a.netlify.app
+
 
 
 ## Notes on Security
