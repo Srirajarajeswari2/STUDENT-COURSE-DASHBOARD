@@ -61,7 +61,7 @@ There’s also a Demo button that pre-fills demo/demo for quick testing.
   
     src/data/students.json
   
-- Each student object supports the fields currently used by the UI: `id`, `name`, `course`, `progress` (0-100), `status` (string), `enrollmentDate`.
+- Each student object supports the fields currently used by the UI: id, name, course, progress (0-100), status (string), enrollmentDate.
 
 ## Charts
 
