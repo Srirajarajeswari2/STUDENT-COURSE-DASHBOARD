@@ -68,13 +68,11 @@ If you prefer a quick demo, use the `Demo` button to prefill `demo`/`demo` and t
 
 ## Screenshot
 
-Below are example placeholder screenshots included in the repository. Replace these with your real images (same folder) when ready.
-
-![Screenshot 1](src/assets/screenshots/screenshot-1.svg)
-
-![Screenshot 2](src/assets/screenshots/screenshot-2.svg)
-
-When adding your own screenshots, name them clearly (for example `login.png`, `dashboard.png`) and place them in `src/assets/screenshots/`.
+![Screenshot 1](src/assets/screenshots/Create%20Account.png)
+![Screenshot 2](src/assets/screenshots/Login%20Page.png)
+![Screenshot 3](src/assets/screenshots/Active%20Student.png)
+![Screenshot 4](src/assets/screenshots/Completed%20Student.png)
+![Screenshot 5](src/assets/screenshots/Progress[High-Low].png)
 
 ## Security & Production Notes
 
@@ -83,7 +81,7 @@ When adding your own screenshots, name them clearly (for example `login.png`, `d
 
 ## Next Improvements (ideas)
 
-- Replace the mock auth with a minimal Express + SQLite backend and JWT authentication.
+- Replace the mock auth with a minimal Express + SQLite backend and JWT authentication.Hig
 - Add interactive chart tooltips and animations using a chart library (Chart.js, Recharts, etc.).
 - Add role-based UI or per-student details + edit flows.
 - Add unit tests for key components and flows.
