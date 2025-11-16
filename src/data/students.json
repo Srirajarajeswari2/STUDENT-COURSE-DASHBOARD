@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "name": "Arun Kumar",
+    "course": "React Basics",
+    "progress": 80,
+    "status": "Active",
+    "enrollmentDate": "2024-01-10"
+  },
+  {
+    "id": 2,
+    "name": "Sana Devi",
+    "course": "Angular Advanced",
+    "progress": 100,
+    "status": "Completed",
+    "enrollmentDate": "2023-12-05"
+  },
+  {
+    "id": 3,
+    "name": "Vikram Raj",
+    "course": "JavaScript Mastery",
+    "progress": 60,
+    "status": "Active",
+    "enrollmentDate": "2024-02-12"
+  }
+  ,
+  {
+    "id": 4,
+    "name": "Maya Singh",
+    "course": "Python for Data",
+    "progress": 45,
+    "status": "Active",
+    "enrollmentDate": "2024-03-01"
+  },
+  {
+    "id": 5,
+    "name": "Rahul Mehra",
+    "course": "Node.js Intro",
+    "progress": 30,
+    "status": "Inactive",
+    "enrollmentDate": "2024-02-20"
+  },
+  {
+    "id": 6,
+    "name": "Priya Patel",
+    "course": "CSS & Design",
+    "progress": 90,
+    "status": "Active",
+    "enrollmentDate": "2023-11-15"
+  },
+  {
+    "id": 7,
+    "name": "John Doe",
+    "course": "Fullstack Bootcamp",
+    "progress": 55,
+    "status": "Active",
+    "enrollmentDate": "2024-01-25"
+  },
+  {
+    "id": 8,
+    "name": "Emily Chen",
+    "course": "TypeScript Deep Dive",
+    "progress": 75,
+    "status": "Active",
+    "enrollmentDate": "2024-02-28"
+  },
+  {
+    "id": 9,
+    "name": "Carlos Diaz",
+    "course": "DevOps Essentials",
+    "progress": 20,
+    "status": "Inactive",
+    "enrollmentDate": "2024-03-10"
+  },
+  {
+    "id": 10,
+    "name": "Fatima Noor",
+    "course": "Testing with Jest",
+    "progress": 100,
+    "status": "Completed",
+    "enrollmentDate": "2023-10-12"
+  }
+]
